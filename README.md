@@ -23,3 +23,25 @@ The reduced dataset used for this excercise contained 68,470 total applications 
 * Balanced accuracy score: 65.7% 
 
 <img src="Resources/Naive.png" width="600">
+
+### Balanced Random Forest Classifier
+
+* Balanced accuracy score: 78.8% 
+* Precission: 99%
+* Recall: 87%
+
+<img src="Resources/BalancedRan.png" width="600">
+
+### Easy Ensemble AdaBoost Classifier
+
+* Balanced accuracy score: 93.2% 
+* Precission: 99%
+* Recall: 94%
+
+<img src="Resources/EasyEns.png" width="600">
+
+## Sumamry
+
+
+
+
