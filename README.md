@@ -40,7 +40,9 @@ The reduced dataset used for this excercise contained 68,470 total applications 
 
 <img src="Resources/EasyEns.png" width="600">
 
-## Sumamry
+## Summary
+
+Revising all the models done the Easy Ensemble AdaBoost Classifier model shows a recall of 94% which is the highest recall score comparing it with all the other 5 algorithms so it could detect almost all the high risk credits. This makes this model the best machine learning model to choose for further analysis. 
 
 
 
